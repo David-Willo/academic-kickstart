@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: He Jinhao
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Robotics Lab @ School of Data and Computer Science @ SUN YAT-SEN UNIVERSITY
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a postgraduate student in Computer Science and Technology at the [School of Data and Computer Science(SDCS)](http://sdcs.sysu.edu.cn/), Sun Yat-Sen University(SYSU) under the supervision of [Prof. Cheng Hui](http://sdcs.sysu.edu.cn/content/2504). I received my bachelor's degree in Software Engineering from SYSU in 2018.
 
 interests:
 - Artificial Intelligence
