@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  #- course: PhD in Artificial Intelligence
+  #  institution: Stanford University
+  #  year: 2012
+  - course: MEng in Computer Science and Technology
+    institution: SUN YAT-SEN UNIVERSITY
+    year: 2018-now
+  - course: BEng in Softwar Engineering
+    institution: SUN YAT-SEN UNIVERSITY
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
