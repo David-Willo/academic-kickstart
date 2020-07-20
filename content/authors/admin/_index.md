@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a postgraduate student in Computer Science and Technology at the [School of Data and Computer Science(SDCS)](http://sdcs.sysu.edu.cn/), Sun Yat-Sen University(SYSU) under the supervision of [Prof. Cheng Hui](http://sdcs.sysu.edu.cn/content/2504). I received my bachelor's degree in Software Engineering from SYSU in 2018.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Simultaneous Localization and Mapping(SLAM)
+- 3D Perception
+- Multi-Robot systems
+- Active SLAM
+- 3D Reconstruction
 
 education:
   courses:
@@ -70,6 +72,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postgraduate student in Computer Science and Technology at the [School of Data and Computer Science(SDCS)](http://sdcs.sysu.edu.cn/), Sun Yat-Sen University(SYSU) under the supervision of [Prof. Cheng Hui](http://sdcs.sysu.edu.cn/content/2504). I received my bachelor's degree in Software Engineering from SYSU in 2018.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
