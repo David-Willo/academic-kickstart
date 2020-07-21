@@ -72,5 +72,5 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postgraduate student in Computer Science and Technology at the [School of Data and Computer Science(SDCS)](http://sdcs.sysu.edu.cn/), Sun Yat-Sen University(SYSU) under the supervision of [Prof. Cheng Hui](http://sdcs.sysu.edu.cn/content/2504). I received my bachelor's degree in Software Engineering from SYSU in 2018.
+I am currently a postgraduate student in Computer Science and Technology at the [School of Data and Computer Science(SDCS)](http://sdcs.sysu.edu.cn/), [Sun Yat-Sen University(SYSU)](http://www.sysu.edu.cn/) under the supervision of [Prof. Cheng Hui](http://sdcs.sysu.edu.cn/content/2504). I received my bachelor's degree in Software Engineering from SYSU in 2018.
 
