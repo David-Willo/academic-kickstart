@@ -35,7 +35,7 @@ education:
   - course: MEng in Computer Science and Technology
     institution: SUN YAT-SEN UNIVERSITY
     year: 2018-now
-  - course: BEng in Softwar Engineering
+  - course: BEng in Software Engineering
     institution: SUN YAT-SEN UNIVERSITY
     year: 2014-2018
 
