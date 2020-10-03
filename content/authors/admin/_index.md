@@ -26,7 +26,7 @@ interests:
 - Multi-Robot systems
 - Active SLAM
 - 3D Reconstruction
-a- VR & AR
+- VR & AR
 
 education:
   courses:
