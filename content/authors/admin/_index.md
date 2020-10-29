@@ -35,7 +35,7 @@ education:
   #  year: 2012
   - course: MEng in Computer Science and Technology
     institution: SUN YAT-SEN UNIVERSITY
-    year: 2018-now
+    year: 2018-2021
   - course: BEng in Software Engineering
     institution: SUN YAT-SEN UNIVERSITY
     year: 2014-2018
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hejh27@mail2.sysu.edu.cn"
+email: "davidwillo@foxmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

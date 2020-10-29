@@ -8,7 +8,7 @@ abstract: "A heterogeneous multi-robot system consisting of Unmanned Ground Vehi
 featured: false
 publication: "*IEEE Robotics and Automation Letters (RA-L)*"
 tags: []
-doi: "https://doi.org/10.1109/LRA.2020.3032054"
+doi: "10.1109/LRA.2020.3032054"
 
 #### Results
 image:
